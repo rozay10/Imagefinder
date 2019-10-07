@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "C:\\xampp\\htdocs\\cms"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\pmsmain"
+		},
+		{
+			"path": "C:\\Users\\User\\Desktop\\PMSSidebar"
+		},
+		{
+			"path": "C:\\Users\\User\\Desktop\\Devjourney\\React Projects\\reactform"
+		},
+		{
+			"path": "C:\\Users\\User\\Desktop\\Devjourney\\nodejs\\create-express-server"
+		},
+		{
+			"path": "C:\\Users\\User\\Desktop\\Devjourney\\nodejs\\nodetest1"
+		},
+		{
+			"path": "C:\\Users\\User\\Desktop\\Rebranding"
+		},
+		{
+			"path": "C:\\Users\\User\\Desktop\\Devjourney\\javascript\\todo"
+		},
+		{
+			"path": "C:\\Users\\User\\Desktop\\Devjourney\\javascript\\notes"
+		},
+		{
+			"path": "C:\\Users\\User\\Desktop\\AwesomeProject"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "todo"
+	}
+}
