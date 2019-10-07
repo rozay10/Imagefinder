@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an imageFinder application, using unsplash api to get searched images.
 
 ## Available Scripts
 
